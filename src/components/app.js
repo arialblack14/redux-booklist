@@ -9,6 +9,6 @@ export default class App extends Component {
       <div>
         <BookList />
       </div>
-    );
+    )
   }
 }
